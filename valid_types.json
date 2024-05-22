@@ -1,0 +1,1 @@
+{"valid_types": ["character", "item", "scene", "banner", "miscellaneous", "battlemap", "faction", "icon", "monster", "sheet"], "type_mapping": {"map": "battlemap", "misc": "miscellaneous", "monstertoken": "monster", "protector": "miscellaneous", "spell": "miscellaneous"}}
