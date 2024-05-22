@@ -22,7 +22,7 @@ A Python script to help organize and convert image files in your Obsidian vault'
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/yourusername/obsidian_dm_companion.git
+   git clone https://github.com/triursa/obsidian_dm_companion.git
    cd obsidian_dm_companion
 2. **Install Required Libraries**
    ```sh 
@@ -67,18 +67,19 @@ Conflict Resolution:
 
 ### Example
 
-Initial Folder Structure
+#### Initial Folder Structure
 
-```
+`
    Attachments/
    ├── character_John.png
    ├── item_Sword.png
    ├── misc_Lake.jpeg
+`
+#### After Running the Script
 
-After Running the Script
-
-```
+`
    Attachments/
    ├── character_John.webp
    ├── item_Sword.webp
    ├── miscellaneous_Lake.webp
+`
