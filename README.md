@@ -25,22 +25,18 @@ A Python script to help organize and convert image files in your Obsidian vault'
    git clone https://github.com/yourusername/obsidian_dm_companion.git
    cd obsidian_dm_companion
 2. **Install Required Libraries**
-```sudo apt update
-sudo apt install python3-pip python3-distutils
-python3 -m pip install Pillow```
+   ```sudo apt update
+   sudo apt install python3-pip python3-distutils
+   python3 -m pip install Pillow```
 3. Create the Attachments Folder (if not existing):
-```mkdir -p Attachments```
+   ```mkdir -p Attachments```
 
 ### Usage
 
-Place Your Images:
-
-Ensure all your images are in the Attachments folder.
-Run the Script:
-
-```sh
-Copy code
-python3 obsidian_dm_companion.py```
+1. Place Your Images:
+- Ensure all your images are in the Attachments folder.
+2. Run the Script:
+   ```python3 obsidian_dm_companion.py```
 
 ##### Follow the Prompts:
 
