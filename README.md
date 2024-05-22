@@ -27,16 +27,16 @@ A Python script to help organize and convert image files in your Obsidian vault'
 2. **Install Required Libraries**
    ```sudo apt update
    sudo apt install python3-pip python3-distutils
-   python3 -m pip install Pillow```
+   python3 -m pip install Pillow
 3. Create the Attachments Folder (if not existing):
-   ```mkdir -p Attachments```
+   ```mkdir -p Attachments
 
 ### Usage
 
 1. Place Your Images:
 - Ensure all your images are in the Attachments folder.
 2. Run the Script:
-   ```python3 obsidian_dm_companion.py```
+   ```python3 obsidian_dm_companion.py
 
 ##### Follow the Prompts:
 
@@ -72,7 +72,7 @@ Attachments/
 
 After Running the Script
 
-Attachments/
-├── character_John.webp
-├── item_Sword.webp
-├── miscellaneous_Lake.webp
+```Attachments/
+   ├── character_John.webp
+   ├── item_Sword.webp
+   ├── miscellaneous_Lake.webp
