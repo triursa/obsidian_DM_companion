@@ -69,14 +69,14 @@ Conflict Resolution:
 
 #### Initial Folder Structure
 
-   Attachments/
-   ├── character_John.png
-   ├── item_Sword.png
-   ├── misc_Lake.jpeg
+Attachments/
+|── character_John.png
+|── item_Sword.png
+|── misc_Lake.jpeg
 
 #### After Running the Script
 
-   Attachments/
-   ├── character_John.webp
-   ├── item_Sword.webp
-   ├── miscellaneous_Lake.webp
+Attachments/
+|── character_John.webp
+|── item_Sword.webp
+|── miscellaneous_Lake.webp
